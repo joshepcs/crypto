@@ -1,4 +1,4 @@
 crypto
 ======
 
-Personal Project
+Personal Project for crypto tools and research
